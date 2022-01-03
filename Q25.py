@@ -23,4 +23,4 @@ for dot in dots:
 # transform list to tuple for the set() function
 dots = [tuple(dot) for dot in dots]
 # the answer
-len(set(dots))
+print(len(set(dots)))

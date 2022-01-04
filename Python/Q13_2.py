@@ -1,7 +1,7 @@
 import pandas as pd
 
 # read data from file
-TXT_FILE = 'Q25.txt'
+TXT_FILE = 'Data/Q13.txt'
 with open(TXT_FILE) as f:
     dots_instructions = f.read()
 # tidy up the data, create a list of dots and instructions

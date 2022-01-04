@@ -1,7 +1,7 @@
 import numpy as np
 
 # read data from file
-TXT_FILE = 'Q13.txt'
+TXT_FILE = 'Data/Q7.txt'
 with open(TXT_FILE) as f:
     positions = f.read()
 # convert data set to a list of int

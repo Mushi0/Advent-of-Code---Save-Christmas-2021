@@ -1,7 +1,7 @@
 import numpy as np
 
 # read data from file
-TXT_FILE = 'Q7.txt'
+TXT_FILE = 'Data/Q4.txt'
 with open(TXT_FILE) as f:
     draw = f.readline() # the random numbers to draw
     # convert the draw to a list of int

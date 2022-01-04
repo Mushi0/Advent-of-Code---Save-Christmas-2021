@@ -1,5 +1,5 @@
 # read data from file
-TXT_FILE = 'Q15.txt'
+TXT_FILE = 'Data/Q8.txt'
 count = 0
 unique_segments = [2, 4, 3, 7]
 with open(TXT_FILE) as f:

@@ -34,7 +34,7 @@ def detect_downward(i, j, counted):
 
 # read data from file
 heightmap = []
-TXT_FILE = 'Q17.txt'
+TXT_FILE = 'Data/Q9.txt'
 with open(TXT_FILE) as f:
     while True:
         line = f.readline() # read one line from the file

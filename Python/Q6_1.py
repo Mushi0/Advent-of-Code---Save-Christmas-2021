@@ -3,7 +3,7 @@ import numpy as np
 NB_DAYS = 80 # number of days
 
 # read data from file
-TXT_FILE = 'Q11.txt'
+TXT_FILE = 'Data/Q6.txt'
 with open(TXT_FILE) as f:
     fish = f.read()
 # convert data set to a list of int
@@ -20,7 +20,7 @@ print(len(fish))
 # =====================================
 # or you can do it like this
 # read data from file
-TXT_FILE = 'Q11.txt'
+TXT_FILE = 'Data/Q6.txt'
 with open(TXT_FILE) as f:
     fish = f.read()
 # convert data set to a list of int
@@ -37,7 +37,7 @@ print(len(fish))
 # =====================================
 # or you can do it like this
 # read data from file
-TXT_FILE = 'Q11.txt'
+TXT_FILE = 'Data/Q6.txt'
 with open(TXT_FILE) as f:
     fish = f.read()
 # convert data set to a list of int

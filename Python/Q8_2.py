@@ -1,5 +1,5 @@
 # read data from file
-TXT_FILE = 'Q15.txt'
+TXT_FILE = 'Data/Q8.txt'
 count = 0
 unique_segments = {2: 1, 4: 4, 3: 7, 7: 8}
 digit_map = ['']*10

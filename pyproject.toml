@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "advent of code - save christmas 2021"
+version = "0.1.0"
+description = ""
+authors = ["Mushi0 <zhy_980401@outlook.com>"]
+readme = "README.md"
+packages = [{include = "advent of code _ save christmas 2021"}]
+
+[tool.poetry.dependencies]
+python = "3.8.12"
+numpy = "^1.23.3"
+matplotlib = "^3.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

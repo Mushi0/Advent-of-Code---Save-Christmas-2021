@@ -10,6 +10,8 @@ packages = [{include = "advent of code _ save christmas 2021"}]
 python = "3.8.12"
 numpy = "^1.23.3"
 matplotlib = "^3.6.1"
+tqdm = "^4.64.1"
+pandas = "^1.5.0"
 
 
 [build-system]
